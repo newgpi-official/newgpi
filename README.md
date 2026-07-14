@@ -26,11 +26,10 @@ The structured technology layer for secure and transparent digital asset operati
 
 Public documentation, examples and SDK resources will be added as they become available.
 
-- Website: https://newgpi.vip/
-- Technical overview: https://newgpi.vip/developers/
-- Insights: https://newgpi.vip/insights/
+- Website: https://newsgpi.com/
+- Technical overview: https://newsgpi.com/developers/
+- Insights: https://newsgpi.com/insights/
 
 ## Mission
 
 **Build the Infrastructure. Connect the Future.**
-
