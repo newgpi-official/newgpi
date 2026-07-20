@@ -8,7 +8,7 @@ This document describes the public security-reporting posture of the NewGPI docu
 
 Do not publish suspected vulnerabilities, credentials, personal data or exploit details in a public GitHub issue.
 
-Until an official security contact is published on `newsgpi.com`, do not send sensitive vulnerability information through unofficial social-media accounts or third parties. An approved private reporting channel will be added here before public APIs or SDKs are released.
+Until an official security contact is published on https://newgpi.vip, do not send sensitive vulnerability information through unofficial social-media accounts or third parties. An approved private reporting channel will be added here before public APIs or SDKs are released.
 
 ## Please include
 
@@ -29,4 +29,3 @@ Never commit passwords, tokens, private keys, authentication cookies or producti
 ## No certification claim
 
 The presence of this document does not indicate that NewGPI has completed a particular security audit or obtained a specific certification.
-
