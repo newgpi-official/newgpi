@@ -22,5 +22,4 @@ The intended public demonstration will show how a user request moves through con
 
 There is no public demo URL documented in this repository at this time. Do not treat unofficial links or third-party deployments as an official NewGPI demo.
 
-Official updates will be published at https://newsgpi.com/ and in this repository.
-
+Official updates will be published at https://newgpi.vip and in this repository.
