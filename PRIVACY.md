@@ -16,9 +16,8 @@ Official examples should use synthetic or test data. Public demos should explain
 
 ## Product privacy policy
 
-This repository document is not a substitute for the product privacy policy. The official policy URL and privacy contact will be added after they are published and approved on https://newsgpi.com/.
+This repository document is not a substitute for the product privacy policy. The official policy URL and privacy contact will be added after they are published and approved on https://newgpi.vip.
 
 ## Updates
 
 Material changes to this document will be visible in the repository commit history.
-
