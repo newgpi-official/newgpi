@@ -22,15 +22,17 @@ The scalable execution foundation that keeps intelligent services available.
 
 The structured technology layer for secure and transparent digital asset operations.
 
-## Featured article
+## Featured technical guides
 
-**[From Game Activity to Verifiable Digital Asset Records](docs/AI_GAMING_ASSET_LIFECYCLE.md)** explains how player events, AI orchestration, cloud execution, inventory and entitlement data, and governance can work together without making unverified financial or product-availability claims.
+- **[AI Agent Orchestration for Live Gaming Systems](docs/AI_AGENT_ORCHESTRATION_FOR_GAMING.md)** presents a practical workflow for bounded context, policy checks, inspectable plans, human approval, controlled execution and validation.
+- **[From Game Activity to Verifiable Digital Asset Records](docs/AI_GAMING_ASSET_LIFECYCLE.md)** explains how player events, AI orchestration, cloud execution, inventory and entitlement data, and governance can work together without making unverified financial or product-availability claims.
 
 ## Developer resources
 
 - [Documentation Hub](docs/README.md)
 - [Platform Overview](docs/PLATFORM_OVERVIEW.md)
 - [Technical Architecture](docs/ARCHITECTURE.md)
+- [AI Agent Orchestration Guide](docs/AI_AGENT_ORCHESTRATION_FOR_GAMING.md)
 - [AI Gaming Asset Lifecycle](docs/AI_GAMING_ASSET_LIFECYCLE.md)
 - [Demo Guide](docs/DEMO_GUIDE.md)
 - [API and SDK Examples](examples/README.md)
