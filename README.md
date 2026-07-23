@@ -4,6 +4,14 @@
 
 NewGPI is building an infrastructure layer that connects intelligent AI agents, cloud execution systems, real-world networks and structured digital asset management technology.
 
+## Verify the official NewGPI identity
+
+- **Official website:** https://newgpi.vip
+- **Official GitHub:** https://github.com/newgpi-official
+- **Official WhatsApp channel:** https://whatsapp.com/channel/0029VbD5rjPL2ATtSUSXZi3s
+
+For your safety, verify links against this repository before downloading software or sharing information. NewGPI will never ask for seed phrases, private keys, passwords, advance payments or remote-control access.
+
 ## Infrastructure pillars
 
 ### Home Network
@@ -27,6 +35,10 @@ The structured technology layer for secure and transparent digital asset operati
 - **[AI Agent Orchestration for Live Gaming Systems](docs/AI_AGENT_ORCHESTRATION_FOR_GAMING.md)** presents a practical workflow for bounded context, policy checks, inspectable plans, human approval, controlled execution and validation.
 - **[From Game Activity to Verifiable Digital Asset Records](docs/AI_GAMING_ASSET_LIFECYCLE.md)** explains how player events, AI orchestration, cloud execution, inventory and entitlement data, and governance can work together without making unverified financial or product-availability claims.
 
+## Open-source projects
+
+- **[ZeroClaw Solana Sentinel](https://github.com/newgpi-official/zeroclaw-solana-sentinel)** is a read-only Python monitoring and MCP reference project for safe, explainable Solana wallet checks.
+
 ## Developer resources
 
 - [Documentation Hub](docs/README.md)
@@ -40,8 +52,6 @@ The structured technology layer for secure and transparent digital asset operati
 - [Security](SECURITY.md)
 - [Privacy](PRIVACY.md)
 - [Contribution Guide](CONTRIBUTING.md)
-
-Official website: https://newgpi.vip
 
 ## Follow and participate
 
